@@ -5,21 +5,27 @@
 https://pic.netbian.com/
 
 
-#### 软件架构
-软件架构说明
-
-
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  pip安装scrapy框架
+2.  pip安装PIL图片处理库
+3.  运行startup.py文件 或在项目文件夹下运行 scrapy crawl netbianSpider
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  首先提示爬取图片专区 有12个专区可以选择，输入对应数字即可
+2.  输入起始页和终止页 均为数字
+3.  提示开始下载...
+
+#### 运行结果
+
+​	![image-20210326223958589](C:\Users\root\AppData\Roaming\Typora\typora-user-images\image-20210326223958589.png)
+
+
+
+![image-20210326224136568](C:\Users\root\AppData\Roaming\Typora\typora-user-images\image-20210326224136568.png)
+
+
 
 #### 参与贡献
 
@@ -27,13 +33,3 @@ https://pic.netbian.com/
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
